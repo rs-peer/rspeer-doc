@@ -1,5 +1,14 @@
 {
   "docs": {
-    "Scripting - Simple": ["setting-up-dev-environment", "how-a-script-works", "basic-entity-interactions"]
+    "Scripting - Overview": [
+      "setting-up-dev-environment", 
+      "how-a-script-works", 
+      "basic-entity-interactions",
+      "event-listeners-overview"
+    ],
+    "Scripting - Event Listeners": [
+      "event-listeners-overview",
+      "chat-message-listener"
+    ]
   }
 }
