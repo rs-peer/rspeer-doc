@@ -1,5 +1,5 @@
 {
   "docs": {
-    "Scripting - Simple": ["setting-up-dev-environment", "basic-entity-interactions"]
+    "Scripting - Simple": ["setting-up-dev-environment", "how-a-script-works", "basic-entity-interactions"]
   }
 }
