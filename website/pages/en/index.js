@@ -145,7 +145,7 @@ class Index extends React.Component {
                 where this website is hosted. From there you can add / modify any content in the docs folder.</p>
             <p>Once you have made your changes, create a pull request on GitHub for it to be merged.</p>
           <div className="more-users">
-            <a className="button" href={'https://github.com'}>
+            <a className="button" href={'https://github.com/rs-peer/rspeer-doc'}>
               Contribute Now
             </a>
           </div>
