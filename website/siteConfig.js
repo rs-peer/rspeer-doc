@@ -38,15 +38,11 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
-    {doc: 'doc2', label: 'Scripting Docs'},
+    {doc: 'setting-up-dev-environment', label: 'Docs'},
     {href: 'https://rspeer.nyc3.cdn.digitaloceanspaces.com/front-site/javadocs/index.html', label: 'Java API Docs'},
     {href: 'https://discordapp.com/invite/UVp7Evz', label: 'Join Discord'}
   ],
-
-  // If you have users set above, you add it here:
-  users,
-
+  
   /* path to images for header/footer */
   headerIcon: 'img/favicon.ico',
   footerIcon: 'img/favicon.ico',

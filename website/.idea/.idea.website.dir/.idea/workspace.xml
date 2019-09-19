@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fba8d655-7647-47db-9b0d-6486647e182f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.website.dir/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.website.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.website.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/en/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/en/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,8 +89,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568856951911</updated>
-      <workItem from="1568856955023" duration="2336000" />
+      <workItem from="1568856955023" duration="2639000" />
     </task>
+    <task id="LOCAL-00001" summary="change contrib path">
+      <created>1568859505448</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568859505448</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +117,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+    <MESSAGE value="change contrib path" />
+    <option name="LAST_COMMIT_MESSAGE" value="change contrib path" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
