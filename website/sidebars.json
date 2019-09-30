@@ -1,5 +1,8 @@
 {
   "docs": {
+    "Client Troubleshooting": [
+      "client-wont-start"
+    ],
     "Scripting - Overview": [
       "setting-up-dev-environment", 
       "how-a-script-works", 
