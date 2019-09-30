@@ -4,6 +4,13 @@ title: Setting Up Your Development Environment
 sidebar_label: Setting Up Your Development Environment
 ---
 
+#### **Video Guide For This Tutorial**
+
+Having trouble following along with just text? Checkout the step by step video guide.
+
+[Link To Video Guide](https://d.pr/v/rA55WT)
+
+
 To begin scripting, we must setup your development environment and setup a project with the proper dependencies.
 
 **Download and Installing RSPeer:**
@@ -115,12 +122,3 @@ As of now, your current project should contain one file called **Main** (or what
 Congratulations! Assuming everything went smooth and you see your text being logged to the console, click Settings -> Debug -> Expand Logger to see it, you have just created your first script! 
 
 You are now setup and ready to go to start creating any type of script that you can dream of.
-
-
-
-#### **Video Guide For This Tutorial**
-
-Having trouble following along with just text? Checkout the step by step video guide.
-
-[Link To Video Guide](https://d.pr/v/rA55WT)
-
