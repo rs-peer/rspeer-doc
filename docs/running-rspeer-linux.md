@@ -44,6 +44,9 @@ sudo yum install java-1.8.0-openjdk
 sudo yum install wget
 ```
 
+### Other Linux OS / ARM
+You'll need to google the proper commands to install java and wget.
+If you are running ARM linux, this guide assumes you are technical enough to do so.
 
 
 # Downloading & Running RSPeer
