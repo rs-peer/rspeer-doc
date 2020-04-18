@@ -13,7 +13,7 @@ An npc is a non playable character. A few examples of these include: **Man, Cow,
 
 **What is a GameObject / SceneObject?**
 
-A  game object, or scene object, is an entity that is not classified a any of the other types, but is seen throughout RuneScape. These include **trees, bank booths, stairs**, etc. Basically anything that is not an NPC, Player, or GroundItem.
+A  game object, or scene object, is an entity that is not classified by any of the other types, but is seen throughout RuneScape. These include **trees, bank booths, stairs**, etc. Basically anything that is not an NPC, Player, or GroundItem.
 
 **What is a Player?**
 
