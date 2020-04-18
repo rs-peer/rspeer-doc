@@ -1,7 +1,8 @@
 {
   "docs": {
     "Client Setup": [
-      "running-rspeer-linux"
+      "running-rspeer-linux",
+      "quick-launch"
     ],
     "Client Troubleshooting": [
       "client-wont-start"
